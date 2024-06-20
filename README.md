@@ -15,8 +15,8 @@
   - 🛢️ Cooking oil
 
 ## 📷 Screenshots
-![App Screenshot 1]("./Screenshot 2024-06-20 at 04.24.39.png")
-![App Screenshot 2]("./Screenshot 2024-06-20 at 04.24.58.png")
+![App Screenshot 1](https://github.com/RanieryMendes/nlw_1/blob/main/Screenshot%202024-06-20%20at%2004.24.58.png)
+![App Screenshot 2](https://github.com/RanieryMendes/nlw_1/blob/main/Screenshot%202024-06-20%20at%2004.24.39.png)
 
 ## 🛠 Technologies Used
 - **Node.js** ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
